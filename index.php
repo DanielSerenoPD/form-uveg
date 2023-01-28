@@ -9,7 +9,7 @@
     <div class="container">
         <div class="form">
             <h1>Registrar Alumno</h1>
-            <form action="card.html" method="post">
+            <form action="card.php" method="post">
                 <div>
                     <label for="nombre">Nombre</label>
                     <input type="text" name="add_nombre" id="nombre" required
